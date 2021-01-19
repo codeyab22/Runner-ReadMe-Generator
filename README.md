@@ -5,7 +5,7 @@ About the project:
 
 This is the eighth project. This is Runner-ReadME Generator is an app that creating distinct READMEs from the user's input. Using the command node.js A GOOD readme contains two elements to install: inquirer and package json.  A  user can retrieve their password and through prompting their github username.   It is useful to validating answers to prompted questions. 
 
-TABLE OF CONTENTS:
+# TABLE OF CONTENTS:
  
 1. Installation
 
@@ -20,7 +20,7 @@ TABLE OF CONTENTS:
 6. Tests
 
 
-
+# Demo
 
 Here is the demo:
 
@@ -36,7 +36,7 @@ Here is the screenshot:
 
 
 
-Installation:
+# Installation:
 Install npm in node to add dependencies in the 
 Note: When you can't install npm inquirer and install npm init on gitbash. Otherwise, it will say "command not found" 
 
@@ -55,20 +55,24 @@ Copy and paste  npm install inquirer
 Run the following command:
 2. Copy and paste npm init
 
-Authors: Adia Boyd
-Contributors: No contributers yet:
+# Authors: 
+Adia Boyd
+# Contributors: 
+No contributers yet:
 
 
-Licenses: MIT 
+# Licenses: 
+MIT 
 
 This is licensed under the MIT---Looking at LICENSE
 
-Tests: jest. 
-
+# Tests: 
+jest. 
+# Repositories
 Here is the repo to my link: https://github.com/codeyab22/Runner-ReadMe-Generator/.
 Here is the deployed website: 
 
-QUESTIONS:
+# Questions:
 
 Email: codeyab@aol.com
 
