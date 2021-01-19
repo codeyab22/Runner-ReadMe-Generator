@@ -56,7 +56,7 @@ Run the following command:
 2. Copy and paste npm init
 
 Authors: Adia Boyd
-Contributors: No contr
+Contributors: No contributers yet:
 
 
 Licenses: MIT 
@@ -67,3 +67,8 @@ Tests: jest.
 
 Here is the repo to my link: https://github.com/codeyab22/Runner-ReadMe-Generator/.
 Here is the deployed website: 
+
+QUESTIONS:
+
+Email: codeyab@aol.com
+
