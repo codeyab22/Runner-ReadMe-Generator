@@ -3,7 +3,7 @@
 
 About the project: 
 
-This is the eighth project. This is Runner-ReadME Generator is an app that creating distinct READMEs from the user's input. Using the command node.js A GOOD readme contains two elements to install: inquirer and package json.  A  user can retrieve their password and through prompting their github username.   It is useful to validating answers to prompted questions. 
+This is the ninth project. This is Runner-ReadME Generator is an app that creating distinct READMEs from the user's input. Using the command node.js A GOOD readme contains two elements to install: inquirer and package json.  A  user can retrieve their password and through prompting their github username.   It is useful to validating answers to prompted questions. 
 
 # TABLE OF CONTENTS:
  
@@ -27,7 +27,7 @@ Here is the demo:
 
 
 Here is the screenshot of the ReadME:
-![image](https://drive.google.com/uc?export=view&id=1mkW7rf3R_w21QChv4lFvnjJcoMgzKFxt)
+![image](https://drive.google.com/uc?export=view&id=
 
 
 # Installation:
