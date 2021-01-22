@@ -29,7 +29,7 @@ Here is the demo:
 Here is the screenshot of my sample ReadME:
 
 
-![image](https://drive.google.com/uc?export=view&id=1o99DhDpGSPi2Ujh-tsgsawgb-sm2GS0n)
+![image](https://drive.google.com/uc?export=view&id=1cDQpXm0UEhmN9K2BT-Ptn2HOt5xdEvQV)
 
 # Installation:
 Install npm in node to add dependencies in the repo.
