@@ -11,7 +11,7 @@ This is the ninth project. This is Runner-ReadME Generator is an app that creati
 
 2. Instructions
 
-3. License
+3. License(s)
 
 4. Contributors
 
