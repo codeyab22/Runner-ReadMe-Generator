@@ -31,9 +31,9 @@ Here is the demo:
 
 
 
-Here is the screenshot: 
+Here is the screenshot my the sample README: 
 
-
+![image](https://drive.google.com/uc?export=view&id=1mkW7rf3R_w21QChv4lFvnjJcoMgzKFxt)
 
 
 # Installation:
