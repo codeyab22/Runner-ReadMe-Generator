@@ -26,7 +26,7 @@ Here is the demo:
 
 
 
-Here is the screenshot of my sample ReadME:
+Here is the screenshot of my sample READMe:
 
 
 ![image](https://drive.google.com/uc?export=view&id=1cDQpXm0UEhmN9K2BT-Ptn2HOt5xdEvQV)
