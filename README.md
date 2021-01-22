@@ -15,7 +15,7 @@ This is the eighth project. This is Runner-ReadME Generator is an app that creat
 
 4. Contributors
 
-5. Author
+5. Authors
 
 6. Tests
 
@@ -33,7 +33,7 @@ Here is the demo:
 
 Here is the screenshot my the sample README: 
 
-![image](https://drive.google.com/uc?export=view&id=1mkW7rf3R_w21QChv4lFvnjJcoMgzKFxt)
+![image](https://drive.google.com/uc?export=view&id=)
 
 
 # Installation:
