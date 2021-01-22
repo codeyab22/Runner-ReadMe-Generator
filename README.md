@@ -27,11 +27,11 @@ Here is the demo:
 
 
 Here is the screenshot of the ReadME:
-![image](https://drive.google.com/uc?export=view&id=
+
 
 
 # Installation:
-Install npm in node to add dependencies in the 
+Install npm in node to add dependencies in the repo.
 Note: When you can't install npm inquirer and install npm init on gitbash. Otherwise, it will say "command not found" 
 
 For gitbash:
