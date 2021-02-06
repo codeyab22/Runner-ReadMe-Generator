@@ -1,4 +1,4 @@
-// TODO: Create a function to generate markdown for README
+/ TODO: Create a function to generate markdown for README
 function generateMarkdown(userResponses, userInfo) {
   
   let tocDraft = `## Table of Contents`;
@@ -67,23 +67,23 @@ function generateMarkdown(userResponses, userInfo) {
   ${userResponses.license}
   `;
 
-  let devDraft =
-  `
-  ---
-  ## Question(s)
-  ![Developer Pic](${userInfo.avatar_url})
- Contact me at:
-  GitHub: [@${userInfo.login}](${userInfo.url})
-  `;
+//   let devDraft =
+//   `
+//   ---
+//   ## Question(s)
+//   ![Developer Pic](${userInfo.avatar_url})
+//  Contact me at:
+//   GitHub: [@${userInfo.login}](${userInfo.url})
+//   `;
 
-  if (userInfo.email !== null){
-    readmeDraft +=
-    `
-    Email: ${userInfo.email}
-    `
-  };
+  // if (userInfo.email !== null){
+  //   readmeDraft +=
+  //   `
+  //   Email: ${userInfo.email}
+  //   `
+  // };
 
-  readmeDraft +=devDraft;
+  // readmeDraft +=devDraft;
 
   return readmeDraft;
 
