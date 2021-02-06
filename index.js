@@ -1,22 +1,22 @@
 // Check the markdown generating script
-generateMarkdown = require('./assets/js/generateMarkdown.js');
+generateMarkdown = require('./Utils/generateMarkdown.js');
 
 // Check for the  dependencies installed
 const fs = require("fs");
 const inquirer = require("inquirer");
-const axios = require("axios");
+// const axios = require("axios");
 
 // Get user details from GitHub
-function getUser(userName) {
-    return axios
- .get(
- `https://api.github.com/users/${userName}`
-  )
-  .catch(err => {
- console.log(`User not found`);
-  process.exit(1);
-   });
-}
+// function getUser(userName) {
+//     return axios
+//  .get(
+//  `https://api.github.com/users/${userName}`
+//   )
+//   .catch(err => {
+//  console.log(`User not found`);
+//   process.exit(1);
+//    });
+// }
 
 // Ask for project details for README file
 function userInputs() {
@@ -77,19 +77,19 @@ function userInputs() {
             name: "projectLicense",
         }
         ])
-
+​
  // Get user avatar and generate markdown (without creating a README file)
 .then((inquirerResponses) => {
- getUser(inquirerResponses.userName)
- .then((githubResponse) => {
+//  getUser(inquirerResponses.userName)
+//  .then((githubResponse) => {
  // Add user avatar to project details
- inquirerResponses.avatarURL = githubResponse.data.avatar_url
+//  inquirerResponses.avatarURL = githubResponse.data.avatar_url
   // Parse the README details to create markdown version
  let markdownReadme = generateMarkdown(inquirerResponses);
  // Parse the markdown README version to write it to file
   writeToFile('README.md', markdownReadme);
   })
-   })
+//    })
 
 }
 
