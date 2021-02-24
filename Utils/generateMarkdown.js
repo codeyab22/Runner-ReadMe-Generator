@@ -1,4 +1,4 @@
-/ TODO: Create a function to generate markdown for README
+// TODO: Create a function to generate markdown for README
 function generateMarkdown(userResponses, userInfo) {
   
   let tocDraft = `## Table of Contents`;
