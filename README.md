@@ -62,10 +62,10 @@ This is licensed under the MIT---Looking at LICENSE
 
 # Tests: 
 jest. 
-# Repositories
+# Link of Repository
 Here is the repo to my link: https://github.com/codeyab22/Runner-ReadMe-Generator/.
 
-
+# Link of Website
 Here is the deployed website: https://codeyab22.github.io/Runner-ReadMe-Generator/
 
 # Questions:
