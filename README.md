@@ -22,9 +22,8 @@ This is the ninth project. This is Runner-ReadME Generator is an app that creati
 
 # Demo of the video
 
-Here is the demo:
-
-![image](https://drive.google.com/uc?export=view&id=1--h78QkTV5e9uxEZjfS7OpaeHt2LuxBo)
+Here is the demo of the video:
+![image](https://drive.google.com/uc?export=view&id=18J35M4uESa6nJpULUs46kmvSlU6DCmvj)
 
 Here is the screenshot of my sample READMe:
 
@@ -62,10 +61,10 @@ This is licensed under the MIT---Looking at LICENSE
 
 # Tests: 
 jest. 
-# Link of Repository
+# Link of the Repository
 Here is the repo to my link: https://github.com/codeyab22/Runner-ReadMe-Generator/.
 
-# Link of Website
+# Link of the Deployed Website
 Here is the deployed website: https://codeyab22.github.io/Runner-ReadMe-Generator/
 
 # Questions:
